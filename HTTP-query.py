@@ -1,5 +1,5 @@
-//HTTP-QUERY
-//DEVELOPED BY ANONPRIXOR
+HTTP-QUERY
+DEVELOPED BY ANONPRIXOR
 const url = require('url'),
     fs = require('fs'),
     http2 = require('http2'),
